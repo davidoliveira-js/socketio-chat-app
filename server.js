@@ -26,7 +26,7 @@ io.on('connection', (socket) => {
 
 app.use(
   cors({
-    origin: 'https://socketio-chat-app-eight.vercel.app',
+    origin: 'https://socketio-chat-app.vercel.app',
     credentials: true,
   })
 );
