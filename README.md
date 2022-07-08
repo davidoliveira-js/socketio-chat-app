@@ -1,4 +1,4 @@
-# socket.io-chat-example
+# socket.io-chat-app
 
 ---
 
